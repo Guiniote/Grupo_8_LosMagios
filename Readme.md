@@ -5,6 +5,17 @@ El sitio ofrecerá productos y servicios relacionados con la industria audiovisu
 
 Sitios web de referencia en los que nos basaremos para el trabajo:
 
+https://vtex.com/ar-es/
+Plataforma de ecommerce, con funcionalidades ya establecidas.
+https://www.motorola.com.ar/
+Web adaptada a la plataforma de VTEX
+http://contextus.com.ar/
+Plataforma de estilo VTEX, con otras caracteristicas 
+https://www.cafemartinezonline.com.ar/
+Web adaptada a la plataforma Contextus. Tomamos esta como referencia  de estructura para el maquetado de nuestros wireframes.
+https://www.simplevista.com.ar/
+Web del rubro fotografico, sin ecommerce pero con un entorno grafico agradable.
+
 
 
 El equipo de desarrollo está conformado por:
